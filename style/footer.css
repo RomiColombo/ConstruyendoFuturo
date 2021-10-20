@@ -1,0 +1,33 @@
+.footerTop{
+    background-color: #F8F8F8;
+    height: 10em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding-left: 15px;
+    font-size: 14px;
+}
+
+.footerBot{
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 5px;
+    padding-right: 25px;
+    height: 4em;
+    background-color: var(--principal);
+    color: white;
+}
+
+.footerBot img{
+    height: 3em;
+}
+
+.footerBot p{
+    font-size: 12px;
+}
+
+i{
+    padding-right: 5px;
+}

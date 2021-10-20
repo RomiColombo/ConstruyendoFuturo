@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('./header.css');
+@import url('./main.css');
+@import url('./footer.css');
+
+:root{
+  --fondo: #F8F8F8;
+  --principal: #1A4800;
+}
+
+*{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
